@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uttam-kumar-dev" alt="uttam-kumar-dev" /></a> </p>
 
+- :grinning: I am working as Software Engineer .
 - 🌱 I’m currently learning **Node.js , Next.js, Amazon web services**
 
 - 💬 Ask me about **Python, Django, PHP, JavaScript, Drupal, DotNetNuke(DNN)**
